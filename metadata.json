@@ -1,0 +1,6 @@
+{
+  "name": "PromptVault AI",
+  "description": "Premium AI image prompt library featuring 1000+ prompts, AI Prompt Assistant, Photo Generator, and Frame Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
